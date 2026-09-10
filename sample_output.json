@@ -1,0 +1,71 @@
+[
+  {
+    "company_name": "Postman: The World's Leading API Platform",
+    "domain": "postman.com",
+    "description": "A NEW POSTMAN IS HERE The AI-native API Platform Develop, test, manage, and distribute APIs and services. Built for engineers. Designed for enterprise scale. Sign Up for Free Download the desktop app Meet the AI Engineer Postman's AI Engineer takes on the work of building, testing, and maintaining APIs across your organization, grounded in the context of every service you already run. Meet the AI ",
+    "industry": null,
+    "headquarters": null,
+    "founded_year": null,
+    "products_services": [],
+    "founders": [],
+    "leadership": [],
+    "contact_emails": [],
+    "contact_phones": [],
+    "social_links": [],
+    "source_urls": [
+      "https://postman.com/"
+    ],
+    "crawl_status": "success",
+    "error": null,
+    "extraction_method": "local",
+    "duration_ms": 19140
+  },
+  {
+    "company_name": "Supabase",
+    "domain": "supabase.com",
+    "description": "Build in a weekend Scale to millions Start your project with a Postgres database. Add Authentication, Data APIs, Edge Functions, Realtime Data, Storage, and Vector embeddings. Start your project Request a demo Postgres Database Every project is a full Postgres database , the world's most trusted relational database. 100% portable Built-in Auth with RLS Easy to extend Authentication Add user sign u",
+    "industry": null,
+    "headquarters": null,
+    "founded_year": null,
+    "products_services": [],
+    "founders": [],
+    "leadership": [],
+    "contact_emails": [
+      "express@4.18.2"
+    ],
+    "contact_phones": [],
+    "social_links": [],
+    "source_urls": [
+      "https://supabase.com/",
+      "https://supabase.com/pricing",
+      "https://supabase.com/contact/sales",
+      "https://supabase.com/solutions/innovation-teams"
+    ],
+    "crawl_status": "success",
+    "error": null,
+    "extraction_method": "local",
+    "duration_ms": 23158
+  },
+  {
+    "company_name": "Vapi",
+    "domain": "vapi.ai",
+    "description": "VapiCon is back November 11-12 \u2022 Tickets now available Vapicon 2026 is coming Voice agents for builders Your agents, your rules. Build, deploy, and improve voice agents as fast as you ship. Deploy now Get in touch Customer Support Customer Support Lead Qualification Appointment Scheduling Start call Mic permissions needed Back Resolve support issues with a Vapi agent Learn how 0:00 Support Agent \"",
+    "industry": null,
+    "headquarters": null,
+    "founded_year": null,
+    "products_services": [],
+    "founders": [],
+    "leadership": [],
+    "contact_emails": [],
+    "contact_phones": [],
+    "social_links": [],
+    "source_urls": [
+      "https://vapi.ai/",
+      "https://vapi.ai/pricing"
+    ],
+    "crawl_status": "success",
+    "error": null,
+    "extraction_method": "local",
+    "duration_ms": 8043
+  }
+]
