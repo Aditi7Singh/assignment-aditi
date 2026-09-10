@@ -1,7 +1,3 @@
-I'm in read-only (Ask) mode, so I can't write files. Here's the complete improved README content you can copy into your `README.md`:
-
----
-
 # Autonomous Lead Enrichment Agent
 
 A resilient, production-grade Python agent for enriching company domains with public website intelligence. Built for reliability: it handles JavaScript-rendered pages via Playwright, extracts focused content instead of raw HTML, gracefully degrades to local extraction when LLM credentials are absent, and isolates failures per-domain so one bad target never aborts the batch.
